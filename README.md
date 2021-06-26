@@ -1,7 +1,7 @@
 # Drive-a-single-KMR-iiwa
 Repository containing software developed by Andrea Bravo Forn, as part of a final degree project in engineering physics performed at Federico II University (Naples, June 2021).
 
- <img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/81975803/123516981-21ca9200-d69f-11eb-94cf-cb00b1ed7512.jpg">
+ <img align="left" width="400" height="300" src="https://user-images.githubusercontent.com/81975803/123516981-21ca9200-d69f-11eb-94cf-cb00b1ed7512.jpg">
  
 The aim of this project was to develop a collision avoidance strategy for two KMR iiwa robots naviganting in a warehouse environment. 
 The KMR iiwa robot model developed by Charlotte Heggem, Nina Marie Wahl and Morten M. Dahl (as a specialization project in Robotics & Automation at NTNU) has been used.
