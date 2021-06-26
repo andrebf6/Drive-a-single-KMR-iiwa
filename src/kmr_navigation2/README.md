@@ -6,7 +6,7 @@ This package handles navigation of the KMR iiwa robot.
 
 In a terminal source the ROS workspace and run:
 ```
-ros2 launch kmr_simulation gazebo.launch.py
+    ros2 launch kmr_simulation gazebo.launch.py
 ```
 To drive the robot to a desired position, in another terminal source the ROS workspace and run:
 ```
@@ -23,7 +23,7 @@ Then, enter the number of waypoints used for the navigation and the waypoints th
 To change the speed, make the rubut stop, turn to the left or turn to the right, in a new terminal  source the ROS workspace and run: 
 In a new terminal, new commands can be sent to drive the robot around:
 ```
-ros2 run kmr_navigation2 keyboard.py
+    ros2 run kmr_navigation2 keyboard.py
 ```
 After this, follow the commands that will appear on the screen.
 
