@@ -44,9 +44,7 @@ install(
   PROGRAMS
     scripts/keyboard.py
     scripts/navigate_point.py
-    scripts/navigate_point_scan.py
     scripts/navigate_waypoint.py
-    scripts/navigate_waypoint_scan.py
     DESTINATION lib/${PROJECT_NAME}
 )
 
