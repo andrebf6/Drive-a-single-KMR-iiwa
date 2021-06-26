@@ -27,9 +27,12 @@ Required ROS Packages:
   The repository contains the following packages:
   
    -  kmr_navigation2
-      This package handles navigation of the KMR iiwa robot.
-   -  kmr_simulation
-      This package sets up the simulations in Gazebo. 
+  
+  This package handles navigation of the KMR iiwa robot.
+  
+  -  kmr_simulation
+  
+  This package sets up the simulations in Gazebo. 
  
    
   
