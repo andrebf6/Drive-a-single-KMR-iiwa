@@ -29,7 +29,7 @@ Required ROS Packages:
   
    -  kmr_navigation2
   
-  This package handles navigation of the KMR iiwa robot.
+  This package handles the navigation of the KMR iiwa robot.
   
   -  kmr_simulation
   
