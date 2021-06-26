@@ -2,25 +2,32 @@
 
 This package handles navigation of the KMR iiwa robot. 
 
-## 2. Requirements
-The following packages needs to be installed:
-- None
+## 2. Run
 
-## 3. Run
-
-First, open a terminal and run the following command to open Gazebo: 
-
+In a terminal source the ROS workspace and run:
 ```
-$ ros2 launch kmr_simulation gazebo.launch.py
+ros2 launch kmr_simulation gazebo.launch.py
 ```
+To drive the robot to a desired position, in another terminal source the ROS workspace and run:
+```
+    ros2 run kmr_navigation2 navigate_point.py
+```
+Then, enter the desired position in the same terminal using the keyboard.
+
+To make the robot follow a trajectory by giving some waypoints, in another terminal source the ROS workspace and run:
+```
+    ros2 run kmr_navigation2 navigate_waypoint.py
+``` 
+Then, enter the number of waypoints used for the navigation and the waypoints themselves.
+
+To change the speed, make the rubut stop, turn to the left or turn to the right, in a new terminal  source the ROS workspace and run: 
 In a new terminal, new commands can be sent to drive the robot around:
 ```
-1) Send velocity comands using a keyboard. This can be launched by running:
+ros2 run kmr_navigation2 keyboard.py
 ```
-$ ros2 run kmr_navigation2 twist_keyboard.py
-```
-2) The robot can also be navigating by using a pose keyboard, where you are giving a desired pose of the robot. This can be launched by running: 
-```
-$ ros2 run kmr_navigation2 pose_keyboard.py
-```
+After this, follow the commands that will appear on the screen.
+
+To change the simulation environment, open the gazebo.launch.py file, and change the variable word to the desired environment model (one of the SDF world models contained in the folder world).
+
+To change the launched robot model, open the xml file of the launched simulation environment, and change the spawned robot model.
 
