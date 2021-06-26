@@ -7,7 +7,7 @@ The KMR iiwa robot model developed by Charlotte Heggem, Nina Marie Wahl and Mort
 The present repository contains a navigation algorithm to drive a single KMR iiwa robot in a warehouse environment.
 In the repository andrebf6/Collision-avoidance-strategy-for-two-KMR-iiwa-robots-in-a-warehouse-crosssing, the implemented collision avoidance startegy for two KMR iiwa robots can be found.
 
-![alt text](https://github.com/andrebf6/Drive-a-single-KMR-iiwa/blob/main/Single KMR.png?raw=true)
+![alt text](http://url/to/Single KMR.png)
 
 System requirements:
 
