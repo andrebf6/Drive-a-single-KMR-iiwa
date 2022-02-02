@@ -3,9 +3,9 @@
 ## 1. Description
 Repository containing the software developed by Andrea Bravo Forn, as part of a bachelor degree thesis in Engineering Physics performed at the University of Naples Federico II (June 2021).
 
- <img align="left" width="300" height="200" src="https://user-images.githubusercontent.com/81975803/123516981-21ca9200-d69f-11eb-94cf-cb00b1ed7512.jpg">
+ <img align="left" width="300" height="190" src="https://user-images.githubusercontent.com/81975803/123516981-21ca9200-d69f-11eb-94cf-cb00b1ed7512.jpg">
  
-This thesis on AGV fleed management lays within the framework of the European project ICOSAF. The aim of this project was to design, implement and test a distributed collision avoidance strategy for two KMR iiwa robots operating in a known, grid-like structured, smart warehouse. 
+This thesis on AGV fleed management lays within the framework of the European project ICOSAF. Its aim was to design, implement and test a distributed collision avoidance strategy for two KMR iiwa robots operating in a known, grid-like structured, smart warehouse. 
 
 To test the developed strategy in a very realistic setting, ROS and Gazebo were used. To do so, the KMR iiwa ROS model developed by Charlotte Heggem, Nina Marie Wahl and Morten M. Dahl (as a specialization project in Robotics & Automation at NTNU) has been taken as an starting point. 
 
