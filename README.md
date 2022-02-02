@@ -7,7 +7,7 @@ Repository containing the software developed by Andrea Bravo Forn, as part of a 
  
 This thesis on AGV fleed management lays within the framework of the European project ICOSAF. The aim of this project was to design, implement and test a distributed collision avoidance strategy for two KMR iiwa robots operating in a known, grid-like structured, smart warehouse. 
 
-To test the developed strategy in a very realistic setting, ROS and Gazebo were used. Moreover, the KMR iiwa ROS model developed by Charlotte Heggem, Nina Marie Wahl and Morten M. Dahl (as a specialization project in Robotics & Automation at NTNU) has been used. 
+To test the developed strategy in a very realistic setting, ROS and Gazebo were used. To do so, the KMR iiwa ROS model developed by Charlotte Heggem, Nina Marie Wahl and Morten M. Dahl (as a specialization project in Robotics & Automation at NTNU) has been taken as an starting point. 
 
 
 The present repository contains a navigation algorithm to drive a single KMR iiwa robot in a warehouse environment.
