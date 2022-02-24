@@ -1,7 +1,7 @@
 # Drive a single KMR iiwa
 
 ## 1. Description
-Repository containing the software developed by Andrea Bravo Forn, as part of a bachelor degree thesis in Engineering Physics performed at the University of Naples Federico II (June 2021).
+Repository containing the software developed by Andrea Bravo Forn as part of her Bachelor Degree Thesis in Engineering Physics. This project was performed at the University of Naples Federico II, in the Nonlinear Systems, Networks and Control research group (SINCRO), and presented at the Universitat Politècnica de Catalunya (UPC) in June 2021.
 
  <img align="left" width="300" height="190" src="https://user-images.githubusercontent.com/81975803/123516981-21ca9200-d69f-11eb-94cf-cb00b1ed7512.jpg">
  
